@@ -1,4 +1,4 @@
-## sistema bancario(https://www.dio.me/)
+## sistema bancario (https://www.dio.me/)
 
 #### Objetivo 
 Criar um sistema de bancário: sacar, depositar e visualizar extrato.
